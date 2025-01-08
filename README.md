@@ -24,9 +24,9 @@ I'm a budding developer exploring the exciting world of coding and software deve
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ### Connect with me 🌐
-<a href="https://github.com/yourusername" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30"/></a>
-<a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="30"/></a>
-<a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="30"/></a>
+<a href="https://github.com/Anamul-Hoque37" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30"/></a>
+<a href="https://facebook.com/anamul.hoque.7583" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/@AnamulHoqu12564" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="30"/></a>
 
 
 
