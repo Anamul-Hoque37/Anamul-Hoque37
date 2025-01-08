@@ -17,8 +17,8 @@ I'm a budding developer exploring the exciting world of coding and software deve
 
 
 ### Connect with me 🌐
-<a href="https://github.com/Anamul-Hoque37" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40"/></a>
-<a href="https://facebook.com/anamul.hoque.7583" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" alt="Facebook" width="36"></a>
+<a href="https://github.com/Anamul-Hoque37" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="44"/></a>
+<a href="https://facebook.com/anamul.hoque.7583" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" alt="Facebook" width="44"></a>
 <a href="https://twitter.com/@AnamulHoqu12564" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="44"/></a>
 
 
