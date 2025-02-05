@@ -20,7 +20,10 @@ I'm a budding developer exploring the exciting world of coding and software deve
 <a href="https://github.com/Anamul-Hoque37" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="44"/></a>
 <a href="https://facebook.com/anamul.hoque.7583" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" alt="Facebook" width="44"></a>
 <a href="https://twitter.com/@AnamulHoqu12564" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="44"/></a>
-
+## Contact Me  
+📧 Email: anamul.eee73@gmail.com  
+📞 Phone: +88 01737712037 
+📍 Location: Rajshahi, Bangladesh.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamul-Hoque37)](https://github.com/anuraghazra/github-readme-stats)
